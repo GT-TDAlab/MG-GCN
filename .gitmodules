@@ -1,0 +1,7 @@
+[submodule "PIGO"]
+	path = PIGO
+	url = https://github.com/GT-TDAlab/PIGO.git
+	branch = master
+[submodule "oneTBB"]
+	path = oneTBB
+	url = https://github.com/oneapi-src/oneTBB.git
