@@ -2,6 +2,8 @@
 
 MG-GCN: multi-GPU GCN training framework.
 
+For more information, please read our [paper](https://arxiv.org/abs/2110.08688).
+
 After cloning our repository, run `git submodule update --init` to download the submodules.
 
 Our software depends on a recent CUDA installation, tested on CUDA 11.4
