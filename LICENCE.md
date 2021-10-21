@@ -1,9 +1,3 @@
----
-noteId: "654c5cb032b711ec95f2079960f0d3e8"
-tags: []
-
----
-
 # License
 
 Copyright (c) 2021, GT-TDAlab (Umit V. Catalyurek)  
