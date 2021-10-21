@@ -2,7 +2,7 @@
 
 MG-GCN: multi-GPU GCN training framework.
 
-For more information, please read our [paper](https://arxiv.org/abs/2110.08688).
+For more information, please read our paper: [arXiv:2110.08688](https://arxiv.org/abs/2110.08688).
 
 After cloning our repository, run `git submodule update --init` to download the submodules.
 
